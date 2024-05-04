@@ -22,6 +22,12 @@ url: "https://jeffzycode.github.io" # the base hostname & protocol for your site
 twitter_username: 
 github_username:  Jeffzycode
 
+# Excerpt settings
+show_excerpts: true
+excerpt_limit: 50
+
+# TODO: Maybe add Pagination in the future?
+
 # Build settings
 markdown: kramdown
 theme: jekyll-theme-minimal
