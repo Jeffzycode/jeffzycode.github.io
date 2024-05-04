@@ -16,5 +16,5 @@ This is to test **Markdown Rendering**.
 - A
 - List
 
-$\frac{1}{2} \LaTeX$
+$$\frac{1}{2} \LaTeX$$
 

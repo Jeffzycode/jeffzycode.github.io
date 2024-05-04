@@ -72,5 +72,5 @@ Implementing this algorithm doesn’t seem annoying at all. Let's attempt it.
 
 ----
 
-I've transcribed the old blog post from two years ago almost verbatim (looking back, I made some questionable choices with math notation...). A minor clarification: when I wrote $\min(x)$ of $f(x)$, I believe I meant $\argmin f(x)$.
+I've transcribed the old blog post from two years ago almost verbatim (looking back, I made some questionable choices with math notation...). A minor clarification: when I wrote $$\min(x)$$ of $$f(x)$$, I believe I meant $$\argmin f(x)$$.
 
